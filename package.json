@@ -1,0 +1,22 @@
+{
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindhan-annamalai/saucedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindhan-annamalai/saucedemo/issues"
+  },
+  "homepage": "https://github.com/aravindhan-annamalai/saucedemo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
